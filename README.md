@@ -5,6 +5,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Nov 18 2020**  
+Update on Data Structure & Algorithm Basics using notebook     
 **Nov 12 2020**  
 Stack, Queue      
 **Nov 10 2020**  
