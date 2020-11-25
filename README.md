@@ -6,7 +6,7 @@
 
 ## History  
 **Nov 25 2020**  
-Update on calculating gcd, lcm, fibonacci, prime number 
+Update on calculating gcd, lcm, fibonacci, prime number   
 **Nov 18 2020**  
 Update on Data Structure & Algorithm Basics using notebook     
 **Nov 12 2020**  
