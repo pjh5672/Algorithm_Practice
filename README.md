@@ -5,6 +5,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Nov 26 2020**  
+Update on calculating permutation & combination, counter usage   
 **Nov 25 2020**  
 Update on calculating gcd, lcm, fibonacci, prime number   
 **Nov 18 2020**  
