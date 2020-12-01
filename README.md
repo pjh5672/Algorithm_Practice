@@ -5,6 +5,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Dec 01 2020**  
+Update on simple examples for class & instance, design pattern   
 **Nov 26 2020**  
 Update on calculating permutation & combination, counter usage   
 **Nov 25 2020**  
