@@ -5,6 +5,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Dec 22 2020**  
+Update on simple examples for LinkedList  
 **Dec 14 2020**  
 Update on simple examples for stack, queue, heap  
 **Dec 01 2020**  
