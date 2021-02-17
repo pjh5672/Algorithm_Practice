@@ -5,6 +5,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Feb 17 2021**  
+Create Note for "do it" book  
 **Feb 14 2021**  
 Source Tree push test2  
 **Feb 12 2021**  
