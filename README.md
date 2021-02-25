@@ -5,6 +5,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Feb 25 2021**  
+Update on Structure Basic examples   
 **Feb 17 2021**  
 Create Note for "do it" book  
 **Feb 14 2021**  
