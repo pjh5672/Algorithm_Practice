@@ -6,7 +6,7 @@
 
 ## History  
 **Mar 07 2021**   
-Update on Binary Search, Hash Chain   
+Update on Binary Search, Hash Chain    
 **Feb 25 2021**  
 Update on Structure Basic examples   
 **Feb 17 2021**  
