@@ -1,10 +1,12 @@
-# Algorithm_Practice
+# Algorithm_Practice   
 
 **My practice note for Algorithm**  
 **Author : Park Jiho**  
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Mar 11 2021**   
+Update on chaining(open hashing) code     
 **Mar 07 2021**   
 Update on Binary Search, Hash Chain    
 **Feb 25 2021**  
@@ -33,6 +35,7 @@ Stack, Queue
 First Commit    
 
 
-## Reference
- - Fast Campus
- - BAEKJOON online judge  
+## Reference   
+ - Fast Campus   
+ - "Doit" Algorithm     
+ - BAEKJOON online judge   
