@@ -5,6 +5,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Mar 16 2021**   
+Update on rehashing(open addressing) code   
 **Mar 11 2021**   
 Update on chaining(open hashing) code     
 **Mar 07 2021**   
