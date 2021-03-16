@@ -6,7 +6,7 @@
 
 ## History  
 **Mar 16 2021**   
-Update on rehashing(open addressing) code   
+Update on rehashing(open addressing), stack    
 **Mar 11 2021**   
 Update on chaining(open hashing) code     
 **Mar 07 2021**   
