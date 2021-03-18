@@ -5,6 +5,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Mar 18 2021**   
+Update on queue, recursive algorithms    
 **Mar 16 2021**   
 Update on rehashing(open addressing), stack    
 **Mar 11 2021**   
