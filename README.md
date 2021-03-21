@@ -6,7 +6,7 @@
 
 ## History   
 **Mar 21 2021**   
-Update on sorting algorithms(bubble, selection, insertion)   
+Update on sorting algorithms(bubble, selection, insertion, binary insertion)   
 **Mar 18 2021**   
 Update on queue, recursive algorithms    
 **Mar 16 2021**   
@@ -43,5 +43,5 @@ First Commit
 
 ## Reference   
  - Fast Campus   
- - "Doit" Algorithm     
+ - "Doit" Algorithm      
  - BAEKJOON online judge   
