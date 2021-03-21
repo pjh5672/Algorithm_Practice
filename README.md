@@ -6,7 +6,7 @@
 
 ## History   
 **Mar 21 2021**   
-Update on sorting algorithms(bubble, selection, insertion, binary insertion)   
+Update on sorting algorithms(bubble, selection, insertion, binary insertion, shell, quick, heap, counting sort)    
 **Mar 18 2021**   
 Update on queue, recursive algorithms    
 **Mar 16 2021**   
