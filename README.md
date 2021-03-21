@@ -4,7 +4,9 @@
 **Author : Park Jiho**  
 **Email : pjh5672.dev@gmail.com**   
 
-## History  
+## History   
+**Mar 21 2021**   
+Update on sorting algorithms(bubble, selection, insertion)   
 **Mar 18 2021**   
 Update on queue, recursive algorithms    
 **Mar 16 2021**   
