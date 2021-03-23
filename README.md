@@ -5,6 +5,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History   
+**Mar 23 2021**   
+Update on binary search tree    
 **Mar 22 2021**   
 Update on linkedlist    
 **Mar 21 2021**   
